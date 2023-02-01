@@ -1,6 +1,10 @@
 # Professional Scrum Developer Certification
 
-## Useful Documentation
+The PSD certification is a simple certification for developers who want to prove theiry knowledge in Scrum. The assessment for this certification can be done ![here](https://www.scrum.org/assessments/professional-scrum-developer-certification). 
+
+I once had a try, but failed. Thats why I opened this repository to provide others useful information about the assesment.
+
+## Documentation
 
 ### Official Documentation
 - ![The Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
