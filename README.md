@@ -13,8 +13,14 @@ I once had a try, but failed. Thats why I opened this repository to provide othe
   - ![Understanding and Applying the Scrum Framework](https://www.scrum.org/professional-scrum-competencies/understanding-and-applying-scrum-framework)
   - ![Developing People and Teams](https://www.scrum.org/professional-scrum-competencies/developing-people-and-teams)
   - ![Managing Products with Agility](https://www.scrum.org/professional-scrum-competencies/managing-products-with-agility)
+- ![Best Practices](https://www.scrum.org/resources/blog/best-practices-and-scrum)
 
 ### Unoffical Documentation
+
+- ![Martin Fowler - TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+- ![Gene Kim - The Three Ways](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/)
+- ![thescrummaster.co.uk - 1 Pager](https://www.thescrummaster.co.uk/the-simple-guide-to-scrum-1-pager/)
+- ![thescrummaster.co.uk - Scrum Guide](https://www.thescrummaster.co.uk/the-simple-guide-to-scrum-download/)
 
 ## Practice Exams
 
