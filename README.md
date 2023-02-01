@@ -35,4 +35,4 @@ With the first failed try  I learnerd, that the practice exams are bad to practi
 
 **These Questions are copied from ![Ditectrev](https://github.com/Ditectrev) in his repository ![Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers)**
 
-![Question List](questions.md)
+[Question List](questions.md)
