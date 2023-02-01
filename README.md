@@ -3,7 +3,7 @@
 ## Useful Documentation
 
 ### Official Documentation
-
+- ![The Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 - ![The Professional Scrum Competencies](https://www.scrum.org/professional-scrum-competencies)
   - ![Developing and Delivering Products Professionally](https://www.scrum.org/professional-scrum-competencies/developing-and-delivering-products-professionally)
   - ![Understanding and Applying the Scrum Framework](https://www.scrum.org/professional-scrum-competencies/understanding-and-applying-scrum-framework)
