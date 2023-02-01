@@ -20,7 +20,7 @@
 
 ## Possible Questions
 
-**! These Questions are copied from ![Ditectrev](https://github.com/Ditectrev) in his repository ![Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers) **
+** ! These Questions are copied from ![Ditectrev](https://github.com/Ditectrev) in his repository ![Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers) **
 
 ### When can Product Backlog Refinement occur?
 
