@@ -3,6 +3,7 @@
 The PSD certification is a simple certification for developers who want to prove theiry knowledge in Scrum. The assessment for this certification can be done ![here](https://www.scrum.org/assessments/professional-scrum-developer-certification). 
 
 I once had a try, but failed. Thats why I opened this repository to provide others useful information about the assesment.
+With the first failed try  I learnerd, that the practice exams are bad to practice, because after one or two rounds, you already know all questions. **Thats why i recommend first carefully reading all documentation at least two or three times** before taking the exams. 
 
 ## Documentation
 
