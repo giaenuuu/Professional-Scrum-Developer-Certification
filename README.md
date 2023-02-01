@@ -425,7 +425,7 @@
 
 ### Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
 
-![Burndown](images/bdc.jpg)
+![Burndown](burndown.jpg)
 
 
 - [ ] The Scrum Master adds additional Developers for Sprint 8.
