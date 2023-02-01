@@ -20,7 +20,8 @@ I once had a try, but failed. Thats why I opened this repository to provide othe
 
 - ![Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - ![Scrum Developer Open](https://www.scrum.org/open-assessments/scrum-developer-open)
-- ![CertHero PSD Practice Test](https://www.certshero.com/scrum/psd/practice-test)
+- ![CertHero - PSD Practice](https://www.certshero.com/scrum/psd/practice-test)
+- ![Practice Test Geeks - PSD Practice](https://practicetestgeeks.com/scrum-practice-test-exam/)
 
 
 ## Possible Questions
