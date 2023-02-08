@@ -22,6 +22,8 @@ With the first failed try  I learnerd, that the practice exams are bad to practi
 - [Gene Kim - The Three Ways](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/)
 - [thescrummaster.co.uk - 1 Pager](https://www.thescrummaster.co.uk/the-simple-guide-to-scrum-1-pager/)
 - [thescrummaster.co.uk - Scrum Guide](https://www.thescrummaster.co.uk/the-simple-guide-to-scrum-download/)
+- [LeSS - Teams](https://less.works/less/structure/teams)
+- [KnowledgeHut - Scrum Tutorial](https://www.knowledgehut.com/tutorials/scrum-tutorial)
 
 ## Practice Exams ✏️
 
