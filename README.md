@@ -1,3 +1,5 @@
+<img src="./git_repo_header.png" stlye="width;100%;" >
+
 # Professional Scrum Developer Certification 📜
 
 The PSD certification is a simple certification for developers who want to prove theiry knowledge in Scrum. The assessment for this certification can be done [here](https://www.scrum.org/assessments/professional-scrum-developer-certification). 
